@@ -51,7 +51,7 @@ The model is trained on historical retail sales data.
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the repository
+1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/Retail-Sales-Forecasting.git
 cd Retail-Sales-Forecasting
