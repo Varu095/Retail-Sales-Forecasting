@@ -62,6 +62,10 @@ pip install -r requirements.txt
 3️⃣ Run the application
 streamlit run app.py
 
+screenshot (DEMO)
+<img width="1725" height="970" alt="Screenshot (336)" src="https://github.com/user-attachments/assets/451d4ba9-5120-4b4e-ab6e-8220ab79f41b" />
+
+
 📌 Future Improvements
 Deploy on cloud (Streamlit Cloud / AWS)
 Improve model accuracy
