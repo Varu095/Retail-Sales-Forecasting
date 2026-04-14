@@ -71,7 +71,7 @@ Support multiple stores
 👩‍💻 Author
 
 Varsha.P S
-AI/ML Student | Aspiring Data Scientist
+AI/ML Student 
 
 ⭐ Support
 
