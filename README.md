@@ -64,7 +64,8 @@ streamlit run app.py
 
 📸 Demo (output screenshot )
 
-C:\Users\ADMIN\Pictures\Screenshots\001.jpeg
+<img width="1725" height="970" alt="Screenshot (336)" src="https://github.com/user-attachments/assets/ce60358c-1713-4306-89d0-9bc9d69b9200" />
+
 https://github.com/user-attachments/assets/b2473ee1-1b19-4bb4-8151-7e9d30058d14
 
 https://github.com/user-attachments/assets/7415bcce-6f05-483c-80f2-500285ffc7f5
