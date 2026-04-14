@@ -63,8 +63,8 @@ pip install -r requirements.txt
 streamlit run app.py
 
 screenshot (DEMO)
-img width="1725" height="970" alt="Screenshot (133)" src="[https://github.com/user-attachments/assets/451d4ba9-5120-4b4e-ab6e-8220ab79f41b](https://1drv.ms/i/c/51f12a8b856eeb92/IQDaf6SlwhPjTqbwEULaaz_sAQAoP2038eT34KaWyyr50VM?e=tAahv8)" /
 
+![Screenshot](https://github.com/your-link/image.png)
 
 📌 Future Improvements
 Deploy on cloud (Streamlit Cloud / AWS)
