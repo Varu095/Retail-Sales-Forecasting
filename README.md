@@ -84,10 +84,4 @@ If you like this project, give it a ⭐ on GitHub!
 
 ---
 
-If you want next upgrade 🔥  
-I can make this:
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
 
-Just tell me 👍
